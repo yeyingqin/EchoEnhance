@@ -5,6 +5,9 @@ The mortality rates of cardiovascular diseases (CVDs) in rural areas have exceed
 
 ## Video Interpolation via ValveDTW
 
+![Frame Sources](P5LELS82_256x256_enhanced_cycle3_frame_sources.png)
+*Visualization of frame sources during ValveDTW interpolation process. This image shows how frames from different cardiac cycles are mapped and interpolated to enhance the temporal resolution.*
+
 ### 🎬 Demo Videos
 
 #### 1. Original Video

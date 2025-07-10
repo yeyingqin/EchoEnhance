@@ -39,7 +39,7 @@ We are committed to reproducible research. The complete source code, including:
 Will be made publicly available following the acceptance of our paper.
 
 ## Updates
-- [ ] Paper submitted (Date)
+- [ ] Paper submitted (7/10/2025)
 - [ ] Paper under review
 - [ ] Paper accepted
 - [ ] Code released

@@ -9,19 +9,19 @@ The mortality rates of cardiovascular diseases (CVDs) in rural areas have exceed
 
 #### 1. Original Video
 [🎥 Watch Video](https://drive.google.com/file/d/1STasmR8C_WdvBUsJVxdun5fYJlW3lpbV/view?usp=drive_link)  
-*Original echocardiogram video with low frame rate*
+
 
 #### 2. Segmentation Mask
 [🎥 Watch Video](https://drive.google.com/file/d/1c9gp0JsVk9k6nzWEbQPCIAYQOKp3ikhW/view?usp=drive_link) 
-*Left ventricle and mitral valve semantic segmentation*
+
 
 #### 3. The Third Cycle of the Original Cardiac Cycle
 [🎥 Watch Video](https://drive.google.com/file/d/1EOeH9y9GzvkV602ULjK5ghwzerPh-P7Z/view?usp=drive_link)  
-*Third cardiac cycle from original video*
+
 
 #### 4. The Third Cycle after Video Interpolation
 [🎥 Watch Video](https://drive.google.com/file/d/1Zg4Ed4LKDFLLLrlSMbSmsVwt0CP_GWzK/view?usp=drive_link)  
-*Third cycle after ValveDTW interpolation with increased frame rate*
+
 
 
 ## Code Release

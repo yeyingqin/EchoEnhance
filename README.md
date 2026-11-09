@@ -30,11 +30,6 @@ The mortality rates of cardiovascular diseases (CVDs) in rural areas have exceed
 ## Code Release
 🔄 **Status**: Uploaded
 
-We are committed to reproducible research. The complete source code, including:
-- ValveDTW
-- DiffUIR-WFAM
-- Evaluation code
-- The private dataset (PLAGH) can not be public, but you can ask for the information. The dataset was collected from two ultrasound machines: one is the Philips EPIQ Elite, with an original frame rate of 39-47 Hz and 800×600 resolution; the other is the GE E90, with an original frame rate of 40-50 Hz and 1016×708 resolution. But we have another electrocardiogram dataset, which is being collected from Guilin People's Hospital. One of the co-authors is doing this job, which can be made publicly available if our paper is accepted.
 
 
 ## Contact
